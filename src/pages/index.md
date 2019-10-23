@@ -2,7 +2,8 @@
 title: Home
 menus:
   main:
-    title: Home
+    title: Inicio
     weight: 1
 template: home
 ---
+
