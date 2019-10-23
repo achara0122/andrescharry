@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 menus:
   main:
-    title: About
+    title: Acerca de mi
     weight: 2
 template: page
 ---
