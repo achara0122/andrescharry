@@ -1,5 +1,5 @@
 ---
-title: Mi experiencia
+title: Mi experiencia.
 subtitle: ''
 img_path: images/style-guide.jpg
 menus:
