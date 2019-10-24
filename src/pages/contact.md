@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Contáctame
 img_path: /images/contact-andres-charry.jpg
 menus:
   main:
@@ -7,5 +7,4 @@ menus:
     weight: 6
 template: contact
 ---
-
-To get in touch fill the form below.
+Para ponerse en contacto rellene el siguiente formulario.
