@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/contact-andres-charry.jpg
 menus:
   main:
     title: Contacto
