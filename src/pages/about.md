@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: Esta es una breve página sobre mí y mi trabajo.
+img_path: /images/work-andres-charry.jpg
 menus:
   main:
     title: Acerca de mi
@@ -9,12 +9,12 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Andrés Charry** es un desarrollador de software senior de [Medellín](https://es.wikipedia.org/wiki/Medell%C3%ADn), Colombia. Estudiando Sistemas Informáticos en su ciudad natal, trabajó para tres grandes empresas de desarrollo de software y de avance tecnológico donde perfeccionó sus habilidades para detectar soluciones a problemas de procesos y mejorar el estilo de diseño de aplicaciones.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Su trabajo ha sido reconocido por estar al tanto del avance de las tecnologías móviles y web y de constante actualización de conocimientos.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>El mundo siempre parece más brillante cuando acabas de hacer algo que antes no existía. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Como hobby, Andres Charry juega ajedrez y gusta del buen fútbol en sus tiempos libres. Vive en Bello, Antioquia con su hermosa esposa e hijastra.
 
-*Thank You for reading!*
+*Gracias por leer!*
