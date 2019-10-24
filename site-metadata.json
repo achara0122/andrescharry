@@ -5,15 +5,15 @@
     "title": "Andres Charry",
     "tagline": "",
     "logo_img": "",
-    "bg_img": "/images/8.jpg",
+    "bg_img": "/images/unsplash-andres-charry.jpg",
     "has_nav": true,
     "has_social": true
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
+    "content": "&copy; Todos los derechos reservados.",
     "links": [
       {
-        "text": "Made for Andres Charry",
+        "text": "Hecho por Andres Charry",
         "url": "https://andrescharry.netlify.com",
         "new_window": false
       }
