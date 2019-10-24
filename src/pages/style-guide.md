@@ -1,7 +1,7 @@
 ---
 title: Mi experiencia.
 subtitle: ''
-img_path: images/style-guide.jpg
+img_path: /images/laguages-andres-charry.png
 menus:
   main:
     title: ''
