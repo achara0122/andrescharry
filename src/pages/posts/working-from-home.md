@@ -1,6 +1,6 @@
 ---
 title: 'Las ventajas y desventajas de trabajar desde la casa '
-date: 2019-10-09T05:00:00.000Z
+date: 2019-09-01T05:00:00.000Z
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: >-
